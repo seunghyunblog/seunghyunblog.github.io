@@ -1,4 +1,4 @@
-# Blog Post
+# seungHyun Blog Post
 ## My first Blog Post
 * Post1
 * Post2
