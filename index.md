@@ -1,6 +1,7 @@
-## Welcome to SeungHyun's Blog 
+## SeungHyun's Blog 
 
 2021.01.05 made
+안녕하세요:)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
